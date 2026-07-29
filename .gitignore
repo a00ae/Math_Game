@@ -39,3 +39,4 @@ CMakeWorkspace
 
 # IDE files (VS Code configuration)
 .vscode/
+.vs/
