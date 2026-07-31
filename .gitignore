@@ -30,6 +30,7 @@
 *.exe
 *.out
 *.app
+*.user
 
 # Build directories
 build/
@@ -40,3 +41,4 @@ CMakeWorkspace
 # IDE files (VS Code configuration)
 .vscode/
 .vs/
+
